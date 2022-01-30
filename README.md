@@ -9,7 +9,7 @@ We merged all of those dataframes (The csv's) into 1 big DataFrame called Comple
 
 
 
-Finals+WikiDf EDA & Folium Visualiztion in Visual1.0
+Finals+WikiDf EDA & Folium Visualiztion in Visual1.0 (Folium map does not work in GitHub)
 
 
 
